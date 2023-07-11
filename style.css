@@ -93,7 +93,7 @@ button{
 @media (max-width: 550px){
     #main{
         width: 350px;
-        margin-left: -3px;
+        /* margin-left: -3px; */
     
     }
     title{
